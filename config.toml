@@ -1,4 +1,4 @@
-baseURL                          = "https://its-live.jpl.nasa.gov/"   # Your domain name. Must end with "/"
+baseURL                          = "https://betolink.github.io/itslive-web/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
 publishDir                       = "docs"
