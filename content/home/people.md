@@ -6,7 +6,7 @@ weight: 25
 #### Principal Investigator
 
 
-<img src="/images/people/AlexGardner.jpg">
+<img src="images/people/AlexGardner.jpg">
 Alex Gardner
 JPL, Caltech
 
