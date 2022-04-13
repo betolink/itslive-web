@@ -1,3 +1,4 @@
 [submodule "themes/introduction"]
 	path = themes/introduction
+	branch = dev
 	url = https://github.com/betolink/hugo-theme-introduction.git

@@ -30,3 +30,13 @@
   text-align: justify;
 }
 
+.custom-image {
+  display: inline !important;
+  text-align: left;
+  margin: unset !important;
+}
+
+.footer-text {
+  text-indent: 3em;
+}
+

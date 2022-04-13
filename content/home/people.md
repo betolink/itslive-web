@@ -1,5 +1,6 @@
 ---
 title: "People"
+weight: 25
 ---
 
 #### Principal Investigator
