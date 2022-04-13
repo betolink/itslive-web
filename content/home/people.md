@@ -17,27 +17,27 @@ JPL, Caltech
 
 <div class="columns">
   <div class="column">
-    <img src="/images/people/MarkFahnestock.jpg">
+    <img src="images/people/MarkFahnestock.jpg">
     Mark Fahnestock<br>
     Geophysical Institute, UAF
   </div>
   <div class="column">
-    <img src="/images/people/TedScambos.jpg">
+    <img src="images/people/TedScambos.jpg">
     Ted Scambos<br>
     ESOC, UCB
   </div>
   <div class="column">
-    <img src="/images/people/PiyushAgram.jpg">
+    <img src="images/people/PiyushAgram.jpg">
     Piyush Agram<br>
     Descartes Labs
   </div>
   <div class="column">
-    <img src="/images/people/FranzMeyer.jpg">
+    <img src="images/people/FranzMeyer.jpg">
     Franz Meyer<br>
     Geophysical Institute, UAF
   </div>
   <div class="column">
-    <img src="/images/people/JohanNilsson.jpg">
+    <img src="images/people/JohanNilsson.jpg">
     Johan Nilsson<br>
     JPL, Caltech
   </div>
@@ -49,27 +49,27 @@ JPL, Caltech
 
 <div class="columns">
   <div class="column">
-    <img src="/images/people/YangLei.jpg">
+    <img src="images/people/YangLei.jpg">
     Yang Lei<br>
     GPS, Caltech
   </div>
   <div class="column">
-    <img src="/images/people/ChadGreene.jpg">
+    <img src="images/people/ChadGreene.jpg">
     Chad Greene<br>
     JPL, Caltech
   </div>
   <div class="column">
-    <img src="/images/people/JoeKennedy.jpg">
+    <img src="images/people/JoeKennedy.jpg">
     Joe Kennedy<br>
     ASF
   </div>
   <div class="column">
-    <img src="/images/people/MariaLiukis.jpg">
+    <img src="images/people/MariaLiukis.jpg">
     Maria Liukis<br>
     JPL, Caltech
   </div>
   <div class="column">
-    <img src="/images/people/LuisLopez.jpg">
+    <img src="images/people/LuisLopez.jpg">
     Luis López<br>
     NSIDC
   </div>
@@ -80,18 +80,18 @@ JPL, Caltech
 
 <div class="columns">
   <div class="column">
-    <img src="/images/people/AmauryDehecq.jpg">
+    <img src="images/people/AmauryDehecq.jpg">
     Amaury Dehecq<br>
     CNRS
   </div>
 
   <div class="column">
-    <img src="/images/people/FernandoPaolo.jpg">
+    <img src="images/people/FernandoPaolo.jpg">
     Fernando Paolo<br>
     Global Fishing Watch
   </div>
   <div class="column">
-    <img src="/images/people/CatherineWalker.jpg">
+    <img src="images/people/CatherineWalker.jpg">
     Catherine Walker<br>
     WHOI
   </div>
@@ -107,12 +107,12 @@ JPL, Caltech
 
 <div class="columns">
   <div class="column">
-    <img src="/images/people/NoelGourmelen.jpg">
+    <img src="images/people/NoelGourmelen.jpg">
     Noel Gourmelen<br>
     U. Edinburgh
   </div>
   <div class="column">
-    <img src="/images/people/HamishPritchard.jpg">
+    <img src="images/people/HamishPritchard.jpg">
     Hamish Pritchard<br>
     British Antarctic Survey
   </div>
