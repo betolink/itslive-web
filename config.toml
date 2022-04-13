@@ -1,6 +1,7 @@
 baseURL                          = "https://its-live.jpl.nasa.gov/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "en"                    # Default language for multilingual sites
+publishDir                       = "docs"
 # disqusshortname                 = ""                     # https://gohugo.io/content-management/comments
 # googleAnalytics                 = ""                     # https://gohugo.io/templates/internal/#google-analytics
 
