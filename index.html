@@ -267,6 +267,7 @@ Click the binder link below to browse the data now <br><br>
 <h3 id=api class=anchor-link><a href=#api>API</a></h3>
 <p><a href=https://nsidc.org/apps/itslive-search/docs>OpenAPI endpoint</a></p>
 <p>Python</p>
+<div class=align-left>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-python data-lang=python><span class=kn>import</span> <span class=nn>requests</span>
 
 <span class=n>base_api</span> <span class=o>=</span> <span class=s2>&#34;https://nsidc.org/apps/itslive-search/velocities/urls&#34;</span>
@@ -282,7 +283,8 @@ Click the binder link below to browse the data now <br><br>
 <span class=c1># This will return a list of NetCDF files in AWS S3 that can be accessed</span>
 <span class=c1># in the cloud or externally</span>
 <span class=n>velocity_pairs</span> <span class=o>=</span> <span class=n>requests</span><span class=o>.</span><span class=n>get</span><span class=p>(</span><span class=n>base_api</span><span class=p>,</span> <span class=n>params</span><span class=o>=</span><span class=n>params</span><span class=p>)</span>
-</code></pre></div><br>
+</code></pre></div></div>
+<br>
 <h3 id=data-cubes class=anchor-link><a href=#data-cubes>Data Cubes</a></h3>
 <p><a href=https://its-live-data.s3.amazonaws.com/datacubes/catalog_v02.json>GeoJSON Data Cubes Catalog (5MB)</a></p>
 <p>In addition to NetCDF image pairs and mosaics, ITS_LIVE produces cloud-optimized <a href=https://zarr.readthedocs.io/en/stable/><code>Zaar</code></a> datacubes, which contain all image-pair data, co-aligned on a common grid for simplified data access. Cloud optimization enables rapid analysis without intermediary data servers, and ITS_LIVE datacubes map directly into Python <a href=https://docs.xarray.dev/en/stable/><code>xarray</code></a> or Julia <a href=https://docs.julialang.org/en/v1/manual/arrays/><code>ZArray</code></a> structures. ITS_LIVE provides basic access and plotting tools in both Python and Julia, making it easy to incorporate the datacubes into workflows locally or on remote servers.</p>

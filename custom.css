@@ -40,3 +40,7 @@
   text-indent: 3em;
 }
 
+.align-left {
+  text-align: left !important;
+}
+
